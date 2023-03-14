@@ -1,0 +1,6 @@
+@article{REPO-282,
+    author = "Kasai, Jungo and Peng, Hao and Zhang, Yizhe and Yogatama, Dani and Ilharco, Gabriel and Pappas, Nikolaos and Mao, Yi and Chen, Weizhu and Smith, Noah A",
+    journal = "arXiv preprint arXiv:2103.13076",
+    title = "{Finetuning Pretrained Transformers into RNNs}",
+    year = "2021"
+}
